@@ -6,6 +6,7 @@
 - current day is displayed at the top of the calendar
 2. When user scroll down
 - their can see the time blocks row for each of their operation hour
+> user can easily change the operation time by changing the `time` and `endTime` variable in script.js
     - each time block is color coded to reflect the time blocks of 
     | past(grey)| present(red) | future(green)
 3. when user click into the text area of selected time block

@@ -1,7 +1,7 @@
 // Adding current time to the header section
 var containerEl = $("#container");
 var currentHour = moment().hours();
-var endTime = 24; //closing time
+var endTime = 17; //closing time
 
 creatTimeRow();
 // getColor();
@@ -11,7 +11,7 @@ $("#currentDay").text(moment().format("dddd, MMMM Do YYYY"));
 // $(".saveBtn").click();
 
 function creatTimeRow() {
-  var time = 15; //open time
+  var time = 9; //open time
   while (time < endTime + 1) {
     //as long as we are open
     var holderEl = $("<form class='row time-block'>");
