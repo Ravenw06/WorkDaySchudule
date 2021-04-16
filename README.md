@@ -1,8 +1,6 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
-#Work Day Scheduler
-***
-##It planner is use for operation management to plan out their daily schedule on a daily basis 
+## This planner is use for operation management to plan out their daily schedule on a daily basis 
 
 1. When user open the planner
 - current day is displayed at the top of the calendar
@@ -17,4 +15,4 @@
 - the input will then be pulled back out from the local storage when user refresh the page
 - the data is saved storage until the user edit it
 
-<img src="assets\js\WSimage.JPG" width="250">
+<img src="assets\js\WSimage.JPG" width="500">
