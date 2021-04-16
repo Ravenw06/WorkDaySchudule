@@ -17,3 +17,6 @@
 - the data is saved storage until the user edit it
 
 <img src="assets\js\WSimage.JPG" width="500">
+
+URL to this GitHub project:
+https://ravenw06.github.io/WorkDaySchudule/
